@@ -1,0 +1,23 @@
+.header__langs {
+    position: absolute;
+    top: 46px;
+    right: 48px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+@media screen and (max-width : 768px) {
+    .header__langs {
+        right: 24px;
+    }
+}
+
+@media screen and (max-width : 320px) {
+    .header__langs {
+        top: 30px;
+        right: 16px;
+    }
+}

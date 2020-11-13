@@ -1,0 +1,9 @@
+.footer__item {
+    color: white;
+}
+
+@media screen and (min-width:320px) and (max-width:767px) {
+    .footer__item {
+        margin: 0 0 32px 0;
+    }
+}

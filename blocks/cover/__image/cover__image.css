@@ -1,0 +1,7 @@
+.cover__image {
+    width: 100%;
+    max-width: 1184px;
+    height: 100%;
+    position: inherit;
+    z-index: 1;
+}

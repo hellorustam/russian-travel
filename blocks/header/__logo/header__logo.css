@@ -7,7 +7,7 @@
     left: 48px;
 }
 
-@media ( max-width : 768px ) {
+@media ( max-width: 768px ) {
     .header__logo {
         width: 142px;
         height: 42px;
@@ -16,7 +16,7 @@
     }
 }
 
-@media ( max-width : 320px ) {
+@media ( max-width: 320px ) {
     .header__logo {
         width: 142px;
         height: 42px;

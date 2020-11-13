@@ -6,7 +6,9 @@
 Научился создавать адаптивную верстку по макетам из Figma
 Были использованны новые знания HTML & CSS, полученные из Яндекс Практикума
 
+### Ссылка на проект
+[Путешествия по России](https://hellorustam.github.io/russian-travel/index.html)
 
 
-
-### Выполнил работу [Рустам Самиев](https://www.instagram.com/rustam.fox)
+### Выполнил работу 
+[Рустам Самиев](https://www.instagram.com/rustam.fox)

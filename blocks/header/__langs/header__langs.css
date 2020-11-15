@@ -1,7 +1,4 @@
 .header__langs {
-    position: absolute;
-    top: 46px;
-    right: 48px;
     display: flex;
     flex-wrap: wrap;
     margin: 0;
@@ -9,15 +6,20 @@
     list-style: none;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 1024px) and (max-width: 1440px) {
     .header__langs {
-        right: 24px;
+        margin-right: 48px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
     .header__langs {
-        top: 30px;
-        right: 16px;
+        margin-right: 24px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .header__langs {
+        margin-right: 16px;
     }
 }

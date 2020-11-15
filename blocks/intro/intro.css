@@ -8,18 +8,21 @@
 
 @media screen and (max-width:1024px) {
     .intro {
+        grid-template-columns: repeat(12, 1fr);
         margin: 92px 48px;
     }
 }
 
 @media screen and (max-width:768px) {
     .intro {
+        grid-template-columns: repeat(8, 1fr);
         margin: 88px 24px;
     }
 }
 
 @media screen and (max-width:320px) {
     .intro {
+        grid-template-columns: repeat(6, 1fr);
         margin: 64px 16px;
     }
 }
